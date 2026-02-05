@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Diego Araújo and I am graduating in Software Engineering 🖥️ and Electrical Engineering⚡..</p>
+<p align="left">My name is Diego Araújo and I am graduating in Software Engineering 🖥️ and Electrical Engineering⚡ I also study a technical course in Industrial Automation...</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: to become a Hybrid engineer . ...<br>🎲 Fun fact: I am Brazilian ...</p>
 
 ###
 
